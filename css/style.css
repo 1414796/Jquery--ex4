@@ -1,0 +1,41 @@
+.container {
+  position: relative;
+  margin: 20px auto;
+  background-image: url("../images/tail.jpg");
+  width: 1325px;
+  height: 600px;
+  overflow: hidden;
+  /*height: 328px;*/
+  /*size: cover;*/
+  /*background-image: url("../images/header-bg.jpg");*/
+}
+
+.container > img {
+  /*width: 1325px;*/
+  /*height: 600px;*/
+  margin-top: 57px;
+  margin-left: 120px;
+}
+
+.content {
+  margin-top: -332px;
+  margin-left: 130px;
+}
+
+.moving__1 {
+  margin-top: -332px;
+  margin-left: 182px;
+}
+
+.moving__2 {
+  margin-top: -76px;
+  margin-left: 185px;
+}
+
+.moving__3 {
+  margin-top: -200px;
+  margin-left: 237px;
+}
+
+.moving {
+}
